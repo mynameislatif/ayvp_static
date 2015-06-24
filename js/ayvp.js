@@ -18,8 +18,15 @@ $( document ).ready( function() {
         nextText        : '' 
     } );
     
+    $( 'a[rel^="prettyPhoto"]' ).prettyPhoto( {
+        deeplinking     : false, 
+//        show_title      : false, 
+        social_tools    : false 
+    } );
+    
     $( '.layer-homebox' ).responsiveEqualHeightGrid();
     $( '.footerSect' ).responsiveEqualHeightGrid();
+    $( '.layer-video' ).responsiveEqualHeightGrid();
     
     $( '.listing-highlight' ).endlessRiver( {
         buttons : false, 

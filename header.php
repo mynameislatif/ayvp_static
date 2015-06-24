@@ -11,6 +11,7 @@
         <link href="css/bootstrap.min.css" rel="stylesheet" />
         <link href="css/flexslider.css" rel="stylesheet" />
         <link href="css/endlessRiver.css" rel="stylesheet" />
+        <link href="css/prettyPhoto.css" rel="stylesheet" />
         <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" />
     </head>
