@@ -133,6 +133,7 @@
         <script src="js/jquery.flexslider-min.js"></script>
         <script src="js/grids.min.js"></script>
         <script src="js/endlessRiver.js"></script>
+        <script src="js/jquery.prettyPhoto.js"></script>
         <script src="js/ayvp.js"></script>
     </body>
 </html>
