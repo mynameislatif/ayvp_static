@@ -27,6 +27,8 @@ $( document ).ready( function() {
     $( '.layer-homebox' ).responsiveEqualHeightGrid();
     $( '.footerSect' ).responsiveEqualHeightGrid();
     $( '.layer-video' ).responsiveEqualHeightGrid();
+    $( '.layer-flag' ).responsiveEqualHeightGrid();
+    $( '.layer-profile' ).responsiveEqualHeightGrid();
     
     $( '.listing-highlight' ).endlessRiver( {
         buttons : false, 

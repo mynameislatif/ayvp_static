@@ -22,26 +22,28 @@
                             <div class="col-md-8">
                                 <h1 class="heading-title">Resources - Slides</h1>
                                 
-                                <div class="layer-articles">
-                                    <div class="layer-article">
-                                        <h4 class="heading-posttitle"><a href="#" title="Curabitur Lobortis Id Lorem Id Bi.">Curabitur Lobortis Id Lorem Id Bi.</a></h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor viverra risus, vel molestie lorem pulvinar consequat. Praesent et nulla tincidunt, consectetur arcu at, volutpat tortor. Morbi vitae tincidunt dui. Maecenas tincidunt arcu at odio eleifend, finibus hendrerit augue feugiat.</p>
-                                    </div>
-                                    <div class="layer-article">
-                                        <h4 class="heading-posttitle"><a href="#" title="Cras Quis Nulla Commodo, Aliquam.">Cras Quis Nulla Commodo, Aliquam.</a></h4>
-                                        <p>Pellentesque sagittis nulla nec urna aliquet tincidunt. Aenean ac sagittis dui. Etiam aliquet orci ac lorem mollis, ac eleifend urna scelerisque. Sed vel lobortis leo. Cras mollis ipsum tellus, eget finibus est posuere sed. Pellentesque ac consequat risus.</p>
-                                    </div>
-                                    <div class="layer-article">
-                                        <h4 class="heading-posttitle"><a href="#" title="Cras Ipsum Nunc, Fermentum Quis Aliquet Id.">Cras Ipsum Nunc, Fermentum Quis Aliquet Id.</a></h4>
-                                        <p>Aliquam in pulvinar nulla. Proin vel elit id mi consequat ultrices iaculis ac massa. Maecenas dictum sapien tortor, eget laoreet ligula tristique a. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                                    </div>
-                                    <div class="layer-article">
-                                        <h4 class="heading-posttitle"><a href="#" title="Proin Placerat, Dui Sit Amet Interdum Sodales.">Proin Placerat, Dui Sit Amet Interdum Sodales.</a></h4>
-                                        <p>Morbi purus nisi, dictum sit amet mattis sed, tempus ut nibh. Etiam mollis at tortor nec tincidunt. Donec nec urna non elit viverra malesuada. Donec cursus purus sit amet accumsan aliquam. Nunc blandit dictum suscipit. Duis eget auctor ex. Etiam a scelerisque risus, fringilla varius metus.</p>
-                                    </div>
-                                    <div class="layer-article">
-                                        <h4 class="heading-posttitle"><a href="#" title="Class Aptent Taciti Sociosqu Ad Litora Torquent Per Conubia Nostra.">Class Aptent Taciti Sociosqu Ad Litora Torquent Per Conubia Nostra.</a></h4>
-                                        <p>Proin sem libero, dictum quis vulputate in, efficitur nec dolor. Etiam euismod aliquet dolor sit amet cursus. Nam hendrerit tincidunt placerat. Proin ac pretium odio. Sed elementum tincidunt sollicitudin. Ut lectus justo, placerat vel vulputate et, tincidunt varius augue.</p>
+                                <div class="row">
+                                    <div class="layer-articles">
+                                        <div class="layer-article">
+                                            <h4 class="heading-posttitle"><a href="#" title="Curabitur Lobortis Id Lorem Id Bi.">Curabitur Lobortis Id Lorem Id Bi.</a></h4>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor viverra risus, vel molestie lorem pulvinar consequat. Praesent et nulla tincidunt, consectetur arcu at, volutpat tortor. Morbi vitae tincidunt dui. Maecenas tincidunt arcu at odio eleifend, finibus hendrerit augue feugiat.</p>
+                                        </div>
+                                        <div class="layer-article">
+                                            <h4 class="heading-posttitle"><a href="#" title="Cras Quis Nulla Commodo, Aliquam.">Cras Quis Nulla Commodo, Aliquam.</a></h4>
+                                            <p>Pellentesque sagittis nulla nec urna aliquet tincidunt. Aenean ac sagittis dui. Etiam aliquet orci ac lorem mollis, ac eleifend urna scelerisque. Sed vel lobortis leo. Cras mollis ipsum tellus, eget finibus est posuere sed. Pellentesque ac consequat risus.</p>
+                                        </div>
+                                        <div class="layer-article">
+                                            <h4 class="heading-posttitle"><a href="#" title="Cras Ipsum Nunc, Fermentum Quis Aliquet Id.">Cras Ipsum Nunc, Fermentum Quis Aliquet Id.</a></h4>
+                                            <p>Aliquam in pulvinar nulla. Proin vel elit id mi consequat ultrices iaculis ac massa. Maecenas dictum sapien tortor, eget laoreet ligula tristique a. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                                        </div>
+                                        <div class="layer-article">
+                                            <h4 class="heading-posttitle"><a href="#" title="Proin Placerat, Dui Sit Amet Interdum Sodales.">Proin Placerat, Dui Sit Amet Interdum Sodales.</a></h4>
+                                            <p>Morbi purus nisi, dictum sit amet mattis sed, tempus ut nibh. Etiam mollis at tortor nec tincidunt. Donec nec urna non elit viverra malesuada. Donec cursus purus sit amet accumsan aliquam. Nunc blandit dictum suscipit. Duis eget auctor ex. Etiam a scelerisque risus, fringilla varius metus.</p>
+                                        </div>
+                                        <div class="layer-article">
+                                            <h4 class="heading-posttitle"><a href="#" title="Class Aptent Taciti Sociosqu Ad Litora Torquent Per Conubia Nostra.">Class Aptent Taciti Sociosqu Ad Litora Torquent Per Conubia Nostra.</a></h4>
+                                            <p>Proin sem libero, dictum quis vulputate in, efficitur nec dolor. Etiam euismod aliquet dolor sit amet cursus. Nam hendrerit tincidunt placerat. Proin ac pretium odio. Sed elementum tincidunt sollicitudin. Ut lectus justo, placerat vel vulputate et, tincidunt varius augue.</p>
+                                        </div>
                                     </div>
                                 </div>
                                 
