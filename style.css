@@ -175,6 +175,7 @@ li { line-height: 140%; }
 /* Layer Page */
 .layer-page {
     margin: 80px 0 0;
+    position: relative;
 }
 
 @media( min-width: 992px ) {
@@ -320,6 +321,8 @@ li { line-height: 140%; }
 
 .nav-main ul ul {
     background-color: #FFF;
+    border: 1px solid #F9B932;
+    border-bottom: 0;
     display: none;
     left: 0px;
     position: absolute;
@@ -328,6 +331,7 @@ li { line-height: 140%; }
 }
 
 .nav-main ul ul li {
+    border-bottom: 1px solid #F9B932;
     display: list-item;
     position: relative;
 }
@@ -339,7 +343,7 @@ li { line-height: 140%; }
 .nav-main ul ul ul {
     display: none;
     left: 100%;
-    top: 0px;
+    top: -1px;
     width: 65%;
 }
 
@@ -532,7 +536,8 @@ li { line-height: 140%; }
     border-radius: 0; -moz-border-radius: 0; -o-border-radius: 0; -webkit-border-radius: 0;
     box-shadow: none; -moz-box-shadow: none; -o-box-shadow: none; -webkit-box-shadow: none;
     display: block;
-    margin: 0;
+    height: 700px;
+    margin: 0 0 -160px;
     padding: 0;
     position: relative;
     overflow: hidden;
@@ -547,7 +552,11 @@ li { line-height: 140%; }
 }
 
 .layer-fullslider img {
-    min-width: 100%;
+    background-position: 0 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
 }
 
 .flex-direction-nav a {
@@ -581,7 +590,8 @@ li { line-height: 140%; }
 
 /* Layer Body */
 .layer-body {
-    margin: 80px 0 0;
+    margin: 0;
+    padding: 95px 0 0;
 }
 
 
@@ -589,7 +599,7 @@ li { line-height: 140%; }
 /* Layer Homeboxes */
 .layer-homeboxes {
     background-color: #F4F4F4;
-    margin: -160px 0 0;
+    margin: 0;
     padding: 0 0 15px;
 }
 
@@ -619,6 +629,7 @@ li { line-height: 140%; }
 /* Layer Highlights */
 .layer-highlights {
     background-color: #FFF;
+    margin-top: -15px;
     padding: 15px 0;
 }
 
