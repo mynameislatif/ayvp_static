@@ -2,8 +2,8 @@
             
             <div class="layer-fullslider flexslider">
                 <ul class="slides">
-                    <li id="slide-1"><img src="images/slide-5.jpg" alt="Slide 1" title="Slide 1" /></li>
-                    <li id="slide-2"><img src="images/slide-6.jpg" alt="Slide 2" title="Slide 2" /></li>
+                    <li id="slide-1"><img src="images/dummy.png" alt="Slide 1" title="Slide 1" style="background-image: url('images/slide-5.jpg');" /></li>
+                    <li id="slide-2"><img src="images/dummy.png" alt="Slide 2" title="Slide 2" style="background-image: url('images/slide-6.jpg');" /></li>
                 </ul>
             </div>
             
